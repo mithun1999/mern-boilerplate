@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node app.js",
     "backend": "nodemon app.js",
-    "frontend": "cd client && npm start"
+    "frontend": "cd client && npm start",
+    "client-install": "cd client && npm install"
   },
   "keywords": [],
   "author": "",
