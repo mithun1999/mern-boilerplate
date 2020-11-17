@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/mithun1999/mern-boilerplate/blob/main/assets/mern-boilerplate.png" width="480" height="540" />
+<img align="left" src="https://github.com/mithun1999/mern-boilerplate/blob/main/assets/mern-boilerplate.png" width="480" height="349" />
 
 <div>
   <p>
